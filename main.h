@@ -22,7 +22,7 @@
  * struct fmt - Struct op
  *
  * @fmt: The format.
- * @fn: The function associated.
+ * @fn: The function associated, team work.
  */
 struct fmt
 {
